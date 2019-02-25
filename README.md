@@ -1,2 +1,2 @@
 # DES
-A sample DES algorithm
+A simple DES algorithm
